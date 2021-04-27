@@ -8,6 +8,6 @@ Zenlink 是基于 Polkadot 的跨链去中心化交易网络，致力于构建�
 
 ## Wasm合约进展
 
-Zenlink DEX Smart Contract(Wasm 合约) 是 Web3 Grant 资助项目。Zenlink 已经于 2020 年 12 月份成功完成 v0.1 版本，并且成功交付。
+[ZenLink Dex Smart Contract(Wasm Contract)](https://github.com/zenlinkpro/zenlink-dex-contract) 是 Web3 Grant 资助项目。Zenlink 已经于 2020 年 12 月份成功完成 v0.1 版本，并且成功交付。
 
 目前，Zenlink DEX Protocol 已经更新到 v0.3 版本，并且其 Module 版本已经完成。因此，Zenlink 接下来将会升级 Smart Contract 版本。新版本将会支持跨链转移和兑换功能，并且适配最新的 Statemint 资产标准。
