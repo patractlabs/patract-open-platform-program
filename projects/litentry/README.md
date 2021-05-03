@@ -10,8 +10,10 @@ Litentry smart contract is built on Patract's Redspot tool, allowing DApp develo
 Furthermore, developers can perform identity calculations for different scenarios based on their algorithmic logic and customize their own user reputation/rating system.
 Github Link: https://github.com/litentry/litentry-contract.
 
-## Developer activity
-
 Litentry has extended Europa, the contract runtime sandbox environment provided by Patract, to increase the accessibility of Litentry Pallet data, allowing direct simulation of interactions with Litentry nodes.
 Litentry is currently developing a smart contract-based credit calculation template.
 Github link: https://github.com/litentry/europa
+
+## Developer activity
+
+We currently have no developer activities, but we will update soon.
