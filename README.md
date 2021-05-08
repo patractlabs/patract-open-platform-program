@@ -24,9 +24,8 @@ If the description has nothing to do with Wasm contract technology, Patract may 
 
    2. "must" means this link key must be provided, and "optional" means this item could be removed. If you do not provide the optional item, the website would not display this missing link.
 
-5. The `tags` file is used for display tag on http://open.patract.io, multiple separated by comma.
+5. The `tags` file is used for display tag on http://open.patract.io, multiple separated by comma, it is not required.
 
-4. The `links_v1.json` file is used for display some website and community links on http://open.platform.io:
 6. Create a Pull Request to this repo, we will review your PR and merge it. After a time, it will be updated at http://open.patract.io.
 
 > The example PR could refers to [PR#4](https://github.com/patractlabs/patract-open-platform-program/pull/4), [PR#5](https://github.com/patractlabs/patract-open-platform-program/pull/5)
