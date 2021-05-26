@@ -9,6 +9,7 @@ Cycan has also developed a stablecoin with anti-inflation characteristics that a
 ## Wasm contract technical support
 
 The Cycan team has successfuly submitted an application for our ELC (Everlasting Cash) project to the Polkadot Web3 Foundation for Open Grants Program and delivered milestone one.
+The ELC project used Cargo to compile, generate WASM code and has been deployed to the Phoenix blockchain through the Redspot script. It has successfully run on the Phoenix chain.
 [Check ELC project](https://github.com/CycanTech/ELC)
 
 Cycan is developing a VM intermodulation system between WASM and EVM, and is also developing the decentralized asset management and other related DeFi protocols based on WASM.
