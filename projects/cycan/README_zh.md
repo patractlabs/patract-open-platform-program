@@ -8,7 +8,9 @@ Cycan还开发了一种采用“储备+算法”双型且具备抗通胀特性�
 
 ## Wasm合约进展
 
-Cycan 已将ELC(Everlasting Cash)项目提交 Web3 基金会申请Open Grant，并成为第九批Grant项目之一，目前已完成里程碑1开发成果并提交审核中，同时正在全力开发里程碑2内容。[查看ELC项目代码](https://github.com/CycanTech/ELC)
+Cycan 已将ELC(Everlasting Cash)项目提交 Web3 基金会申请Open Grant，并成为第九批Grant项目之一，目前已完成里程碑1开发成果并提交审核中，同时正在全力开发里程碑2内容。
+ELC项目使用Cargo编译，生成WASM代码并通过Redspot脚本部署到Phoenix链上，目前已成功在Phoenix链上正常运行。
+[查看ELC项目代码](https://github.com/CycanTech/ELC)
 
 Cycan正在开发WASM与EVM间的虚拟机互调系统，也在基于WASM技术开发去中心化资管等相关DeFi协议。
 
