@@ -16,8 +16,12 @@ Developed Redspot-Explorer's compilation contract and Console function.
 
 **Ask AssemblyScript contract language** [Check the codes](https://github.com/patractlabs/ask)
 
-Designed and implemented the StorableMap class, self-enumerable Map storage; All compiled extension codes are migrated to Ask!
+Designed and implemented the StorableMap class, self-enumerable Map storage; 
+
+All compiled extension codes are migrated to Ask!
+
 Ask! inherit the development and optimization, Ask! globally Import objects Msg, Storage, etc.
+
 Prepared the v0.3 proposal of Ask!.
 
 **Europa Contract sandbox**  [Check the codes](https://github.com/patractlabs/elara)
