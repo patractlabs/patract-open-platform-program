@@ -9,7 +9,9 @@ Patract is a Wasm Contract Technology Lab for Polkadot. We provides full-stack s
 **Redspot Contract scaffold** [Check the codes](https://github.com/patractlabs/redspot)
 
 The main function of v0.4 has been added, and a v0.4 report has been written.
+
 Optimized the redspot-explorer code to query all contracts.
+
 Developed Redspot-Explorer's compilation contract and Console function.
 
 **Ask AssemblyScript contract language** [Check the codes](https://github.com/patractlabs/ask)
