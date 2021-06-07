@@ -8,13 +8,18 @@ Patract是一家波卡Wasm智能合约技术实验室，为Wasm合约生态提�
 
 **Redspot 合约开发脚手架** [查看此代码](https://github.com/patractlabs/redspot)
 
-已完成v0.4提案，配合完成Redspot v0.3的Review。
+v0.4 的主体功能已经全部完成，编写 v0.4 报告。
+
+优化 redspot-explorer 代码，查询所有合约。
+
+开发 Redspot-Explorer 的编译合约、Console 功能。
 
 
 **Ask AssemblyScript语言** [查看此代码](https://github.com/patractlabs/ask)
 
 设计实现 StorableMap 类, 实现可自枚举的 Map 存储；编译扩展代码全部迁移到 Ask!;
 Ask！继承开发优化，在 Ask！全局引入对象 Msg，Storage 等。
+编写 Ask! v0.3 提案。
 
 
 **Europa 合约沙盒环境**  [查看此代码](https://github.com/patractlabs/europa)
