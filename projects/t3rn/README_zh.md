@@ -1,15 +1,14 @@
 # [t3rn](https://www.t3rn.io/)
 
-## Project Intrdouction
+## 项目介绍
 
-t3rn is a smart contract hosting platform that offers an innovative solution to interoperable smart contract execution with fail-safe mechanisms built in, meaning successful multi-chain execution can always be guaranteed. Smart contracts stored in the t3rn registry can be used by anyone, while the developers that contribute smart contracts to the open-source repository can choose to get remunerated anytime their code is executed.
+t3rn 是一个智能合约托管平台，它为可互操作的智能合约执行提供创新的解决方案，内置故障安全机制，这意味着可以始终保证多链的成功执行。 存储在 t3rn 注册表中的智能合约可供任何人使用，而在开源存储库贡献智能合约的开发人员可以选择其代码被执行时获得报酬。
 
-## Wasm contract technical support
+## Wasm合约进展
 
-t3rn facilitates interoperable smart contract execution and as such any smart contract that compiles to Wasm can be executed across different blockchains through the t3rn protocol. 
+t3rn 促进了可互操作的智能合约执行，因此任何编译为 Wasm 的智能合约都可以通过 t3rn 协议在不同的区块链上执行。
 
-## Developer activity
+## 开发者活动
 
-t3rn was initially funded by the Web3 Foundation, delivering a full proof of concept in 2020: https://github.com/t3rn/t3rn/blob/development/roadmap/initial_development_phase.md
-
-After fulfilling the grant, t3rn joined the Substrate Builders Program and the Web3.0 Bootcamp to continue further development. 
+t3rn 最初由 Web3 基金会资助，于 2020 年提供完整的概念证明：https://github.com/t3rn/t3rn/blob/development/roadmap/initial_development_phase.md  。
+完成资助后，t3rn 加入了 Substrate Builders Program 和 Web3.0 Bootcamp 以继续进一步开发。
