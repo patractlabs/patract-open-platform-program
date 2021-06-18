@@ -6,48 +6,67 @@ Patract is a Wasm Contract Technology Lab for Polkadot. We provides full-stack s
 
 ## Wasm contract technical support
 
-**Redspot Contract scaffold** [Check the codes](https://github.com/patractlabs/redspot)
+**Redspot (scaffold) v0.4** [Check the codes](https://github.com/patractlabs/redspot)
 
-The main function of v0.4 has been added, and a v0.4 report has been written.
+Add Multi-contracts compilation support for ink! and solang.
 
-Optimized the redspot-explorer code to query all contracts.
+Automatically adds types of known chains like Canvas, Jupiter, Europa, Edgeware, Plasm and Clover.
 
-Developed Redspot-Explorer's compilation contract and Console function.
+Using docker to compile contracts to ensure result's consistency.
 
-**Ask AssemblyScript contract language** [Check the codes](https://github.com/patractlabs/ask)
+Provide a more specialized UI explorer than Polkadot Apps and Canvas UI to assist in debugging.
 
-Designed and implemented the StorableMap class, self-enumerable Map storage; 
+Add @redspot/decimals plug-in to automatically converts the precision of numbers.
 
-All compiled extension codes are migrated to Ask!
+**Ask!(AssemblyScript e-DSL) v0.2** [Check the codes](https://github.com/patractlabs/ask)
 
-Ask! inherit the development and optimization, Ask! globally Import objects Msg, Storage, etc.
+Improve the sub-options of @storage, @message annotations, and add @event annotations.
 
-Prepared the v0.3 proposal of Ask!.
+Add composite data types of StorableMap, StorableArray.
 
-**Europa Contract sandbox**  [Check the codes](https://github.com/patractlabs/elara)
+Implement contract inheritance to enable contract reuse
 
-Submitted a development proposal for Europa v0.3 and completed the Europa v0.2 review.
+Implement the cross-contract call function through the @dynamic annotation.
 
-**Ceres** [Check the codes](https://github.com/patractlabs/ceres)
+Provide example contracts such as ERC20, ERC721, crosscall, etc.
 
-Support custom storage interface, Wasmtime, std / no_std conditional compilation, all Host Functions of Pallet-Contracts and customized Runtime-Interface. 
+**Europa (sandbox) v0.3**  [Check the codes](https://github.com/patractlabs/europa)
 
-**zkMega  Zero-knowledge proof support** [Check the codes](https://github.com/patractlabs/zkmega)
+Strengthen the functions related to the contract execution system in the contract UI section.
 
-The development of v0.2 has been completed, providing on-chain support for elliptical cash withdrawal alt_bn128, bls12_381, BLS12-377 and BW6_761;
-Provide off-chain toolbox support for ink! contracts.
+Provide the interface and UI to operate Europa's special RPC functions and display state changes.
+
+Combined with Europa's workspace function, you can create and select different workspaces through the UI interface.
+
+Similar to Ganache, Europa and UI will be made into binary packages for different platforms for distribution
+
+**Ceres(Independent ink! contract environment)** [Check the codes](https://github.com/patractlabs/ceres)
+
+the runtime of Ceres supports both wasmtime and wasmi, with the wasmi feature of Ceres, you can run your ink! contract anywhere, even in the browser.
+
+**ZoPatract (ZoKrates for ink!) ** [Check the codes](https://github.com/patractlabs/zkmega)
+
+ZoPatract is a toolbox adapted to ink! contract for zkSNARKs on jupiter. It is a side project for zkMega. 
+
+**Metis(ink! and Ask! standard library) M1**  [Check the codes](https://github.com/patractlabs/metis）
+[M1] Implement basic component macros and components, improve component testing support, developers can build regular DAPPs based on Metis.
 
 **PatraStore DApp store**
 
 DApp store framework has been completed.Multi-chain account management and DApp convenient interactive system, supporting the community to carry out secondary development and independent operation. 
 
-**Follow-up development plans**
+**PatraScan(Explorer)**
 
-Patract plans to carry out development work such as PatraScan (contract chain browser), Leda (contract monitor), Carpo (cloud smart IDE), etc.
+Finished Patract-Archive.
+
+Product docs about Chain, Account, Governance.
+
+UI Prototype Design about Chain, Account.
 
 
 ## Developer activity
 
+Patract has organized PatraShare & PatraTalk courses。[Check the codes](https://www.youtube.com/channel/UCnvwkuLKx6k56M5rErH9AoQ/videos)
 Patract plans to provide developers with Wasm contract guidance courses and online teaching guidance in the second half of the year.
 Patract plans to launch a Wasm contract technology hackathon in the future. Please see the [official website](https://patract.io/) for the latest news.
 
