@@ -44,7 +44,7 @@ Similar to Ganache, Europa and UI will be made into binary packages for differen
 
 the runtime of Ceres supports both wasmtime and wasmi, with the wasmi feature of Ceres, you can run your ink! contract anywhere, even in the browser.
 
-**ZoPatract (ZoKrates for ink!) ** [Check the codes](https://github.com/patractlabs/zkmega)
+**ZoPatract (ZoKrates for ink!)**  [Check the codes](https://github.com/patractlabs/zkmega)
 
 ZoPatract is a toolbox adapted to ink! contract for zkSNARKs on jupiter. It is a side project for zkMega. 
 
