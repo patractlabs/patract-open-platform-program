@@ -48,9 +48,9 @@ the runtime of Ceres supports both wasmtime and wasmi, with the wasmi feature of
 
 ZoPatract is a toolbox adapted to ink! contract for zkSNARKs on jupiter. It is a side project for zkMega. 
 
-**Metis(ink! and Ask! standard library) M1** [Check the codes](https://github.com/patractlabs/metis）
+**Metis(ink! and Ask! standard library) M1** ** [Check the codes](https://github.com/patractlabs/metis)
 
-[M1] Implement basic component macros and components, improve component testing support, developers can build regular DAPPs based on Metis.
+M1 Implement basic component macros and components, improve component testing support, developers can build regular DAPPs based on Metis.
 
 **PatraStore DApp store**
 
