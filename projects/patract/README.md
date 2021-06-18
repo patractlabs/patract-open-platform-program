@@ -67,7 +67,7 @@ UI Prototype Design about Chain, Account.
 
 ## Developer activity
 
-Patract has organized PatraShare & PatraTalk courses。[Check the codes](https://www.youtube.com/channel/UCnvwkuLKx6k56M5rErH9AoQ/videos)
+Patract has organized PatraShare & PatraTalk courses. [Check the codes](https://www.youtube.com/channel/UCnvwkuLKx6k56M5rErH9AoQ/videos)
 
 Patract plans to provide developers with Wasm contract guidance courses and online teaching guidance in the second half of the year.
 
