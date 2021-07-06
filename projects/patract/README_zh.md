@@ -44,14 +44,14 @@ Ask！继承开发优化，在 Ask！全局引入对象 Msg，Storage 等。
 为ink!合约提供链下工具箱支持。
 
 
-**PatraStore DApp应用商店**
+**Store DApp应用商店**
 
 已完成可运作的商店框架，实现多练账户管理和DApp便捷交互系统，支持开发者二次开发。
 
 
 **后续开发计划**
 
-计划开展 PatraScan（浏览器）、Leda（合约监控台）、Carpo（云端智能 IDE）等开发工作。
+计划开展 Parascan（浏览器）、Leda（合约监控台）、Carpo（云端智能 IDE）等开发工作。
 
 
 ## 开发者活动

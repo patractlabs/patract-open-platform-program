@@ -12,9 +12,9 @@ Patract是一家波卡Wasm智能合约技术实验室，为Wasm合约生态提�
 
 > （请简述并提供项目代码中关于Wasm的部分）
 
-目前，Patract已启动Jupiter(测试网)、Ask!(AS合约语言)、Metis(合约标准库)、Redspot(开发脚手架)、Europa(沙盒)、Elara（API服务）、Himalia(SDKs)、zkMega(ZK支持)、PatraStore(DApp商店)等产品服务。[查看Wasm全栈工具代码](https://github.com/patractlabs)
+目前，Patract已启动Jupiter(测试网)、Ask!(AS合约语言)、Metis(合约标准库)、Redspot(开发脚手架)、Europa(沙盒)、Elara（API服务）、Himalia(SDKs)、zkMega(ZK支持)、Store(DApp商店)等产品服务。[查看Wasm全栈工具代码](https://github.com/patractlabs)
 
-Patract还将计划开展PatraScan（浏览器）、Leda（合约监控台）、Carpo（云端智能IDE）等工作。
+Patract还将计划开展Parascan（浏览器）、Leda（合约监控台）、Carpo（云端智能IDE）等工作。
 
 ## 开发者活动
 

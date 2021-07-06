@@ -12,9 +12,9 @@ Patract is a Wasm Contract Technology Lab for Polkadot. We provide full-stack su
 
 > (please briefly describe and provide the Wasm part of the project code)
 
-At present, Patract has launched Jupiter (test network), Ask! (AS contract language), Metis (contract standard library), Redspot (development scaffolding), Europa (sandbox), Elara (API service), Himalia (SDKs), zkMega (ZK support), PatraStore (DApp store) and other product services. [View Wasm full stack tool code](https://github.com/patractlabs).
+At present, Patract has launched Jupiter (test network), Ask! (AS contract language), Metis (contract standard library), Redspot (development scaffolding), Europa (sandbox), Elara (API service), Himalia (SDKs), zkMega (ZK support), Store (DApp store) and other product services. [View Wasm full stack tool code](https://github.com/patractlabs).
 
-Patract will also plan to develop PatraScan (browser), Leda (contract monitoring station), Carpo (cloud smart IDE), etc.
+Patract will also plan to develop Parascan (browser), Leda (contract monitoring station), Carpo (cloud smart IDE), etc.
 
 ## Developer activity
 

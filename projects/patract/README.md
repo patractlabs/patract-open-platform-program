@@ -52,11 +52,11 @@ ZoPatract is a toolbox adapted to ink! contract for zkSNARKs on jupiter. It is a
 
 M1 Implement basic component macros and components, improve component testing support, developers can build regular DAPPs based on Metis.
 
-**PatraStore DApp store**
+**Store DApp store**
 
 DApp store framework has been completed.Multi-chain account management and DApp convenient interactive system, supporting the community to carry out secondary development and independent operation. 
 
-**PatraScan(Explorer)**
+**Parascan(Explorer)**
 
 Finished Patract-Archive.
 
