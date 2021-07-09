@@ -12,3 +12,5 @@ Fantour NFT Marketplace is committed to fertilize the interaction between celebr
 - Self-branded products
 - And more and more
 
+Fantour constructed its basic layer of the blockchain in Polkadot ecosystem. 
+
