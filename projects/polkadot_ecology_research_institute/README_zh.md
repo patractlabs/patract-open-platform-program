@@ -1,4 +1,4 @@
-# [Polkadot生态研究院]
+# Polkadot生态研究院
 
 ## 项目介绍
 
