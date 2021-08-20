@@ -1,4 +1,4 @@
-# [Polkadot Ecology Research Institute]
+# Polkadot Ecology Research Institute
 
 ## Project Introduction
 
