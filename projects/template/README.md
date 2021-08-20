@@ -18,6 +18,7 @@ Patract will also plan to develop Parascan (browser), Leda (contract monitoring 
 
 ## Developer activity
 
+
 > (Developer activities of wasm technology, fill in if necessary)
 
 Patract plans to provide developers with Wasm contract guidance courses and online teaching guidance in the second half of the year.
