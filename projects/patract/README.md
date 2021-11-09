@@ -8,37 +8,25 @@ Patract is a Wasm Contract Technology Lab for Polkadot. We provides full-stack s
 
 **Redspot (scaffold) v0.4** [Check the codes](https://github.com/patractlabs/redspot)
 
-Add Multi-contracts compilation support for ink! and solang.
+Upgraded the Polkadot API.
 
-Automatically adds types of known chains like Canvas, Jupiter, Europa, Edgeware, Plasm and Clover.
+Fixed the problem of accumulator contract.
 
-Using docker to compile contracts to ensure result's consistency.
-
-Provide a more specialized UI explorer than Polkadot Apps and Canvas UI to assist in debugging.
-
-Add @redspot/decimals plug-in to automatically converts the precision of numbers.
+Upgraded Redspot to support ink! rc6.
 
 **Ask!(AssemblyScript e-DSL) v0.2** [Check the codes](https://github.com/patractlabs/ask)
 
-Improve the sub-options of @storage, @message annotations, and add @event annotations.
+Completed the migration and testing of examples/ on the v0.3 version.
 
-Add composite data types of StorableMap, StorableArray.
+Completed the documentation and quickstart tutorial.
 
-Implement contract inheritance to enable contract reuse
-
-Implement the cross-contract call function through the @dynamic annotation.
-
-Provide example contracts such as ERC20, ERC721, crosscall, etc.
+Submitted the v0.3 report document.
 
 **Europa (sandbox) v0.3**  [Check the codes](https://github.com/patractlabs/europa)
 
 Strengthen the functions related to the contract execution system in the contract UI section.
 
-Provide the interface and UI to operate Europa's special RPC functions and display state changes.
-
-Combined with Europa's workspace function, you can create and select different workspaces through the UI interface.
-
-Similar to Ganache, Europa and UI will be made into binary packages for different platforms for distribution
+Improved Europa's development documentation and Readme.
 
 **Ceres(Independent ink! contract environment)** [Check the codes](https://github.com/patractlabs/ceres)
 
@@ -50,19 +38,11 @@ ZoPatract is a toolbox adapted to ink! contract for zkSNARKs on jupiter. It is a
 
 **Metis(ink! and Ask! standard library) M1** ** [Check the codes](https://github.com/patractlabs/metis)
 
-M1 Implement basic component macros and components, improve component testing support, developers can build regular DAPPs based on Metis.
+Added ERC721 and ERC1155 Receiver modules.
 
 **Store DApp store**
 
 DApp store framework has been completed.Multi-chain account management and DApp convenient interactive system, supporting the community to carry out secondary development and independent operation. 
-
-**Parascan(Explorer)**
-
-Finished Patract-Archive.
-
-Product docs about Chain, Account, Governance.
-
-UI Prototype Design about Chain, Account.
 
 
 ## Developer activity
