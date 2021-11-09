@@ -2,17 +2,15 @@
 
 ## 项目介绍
 
-Patract是一家波卡Wasm智能合约技术实验室，为Wasm合约生态提供全栈支持，包括链上合约模块、链下工具和服务、用户端产品等。
+Patract Labs是一家波卡Wasm智能合约技术实验室，为Wasm合约生态提供全栈支持，包括链上合约模块、链下工具和服务、用户端产品等。
 
 ## Wasm合约进展
 
 **Redspot 合约开发脚手架** [查看此代码](https://github.com/patractlabs/redspot)
 
-v0.4 的主体功能已经全部完成，编写 v0.4 报告。
-
-优化 redspot-explorer 代码，查询所有合约。
-
-开发 Redspot-Explorer 的编译合约、Console 功能。
+v0.4 的主体功能已全部完成，编写 v0.4 报告。
+升级 Polkadot API。
+升级 Redspot 支持 ink! rc6。
 
 
 **Ask AssemblyScript语言** [查看此代码](https://github.com/patractlabs/ask)
@@ -24,7 +22,9 @@ Ask！继承开发优化，在 Ask！全局引入对象 Msg，Storage 等。
 
 **Europa 合约沙盒环境**  [查看此代码](https://github.com/patractlabs/europa)
 
-提交 Europa v0.3 的开发提案，完成v0.2 Code Review。
+提交v0.3 报告文档。
+完成 examples/ 在 v0.3 版本上的迁移和测试。
+完成文档和 quickstart 教程。
 
 
 **Ceres** [查看此代码](https://github.com/patractlabs/ceres)
@@ -56,5 +56,5 @@ Ask！继承开发优化，在 Ask！全局引入对象 Msg，Storage 等。
 
 ## 开发者活动
 
-Patract计划在下半年为开发者提供Wasm合约指导课程，并提供线上教学指导。
+Patract开展Patrashare为专题的线上12期Wasm合约指导课程。
 Patract未来计划开展Wasm合约技术黑客松比赛，最新消息请见官网。
