@@ -35,7 +35,8 @@ Ask！继承开发优化，在 Ask！全局引入对象 Msg，Storage 等。
 
 **Elara API服务**  [查看此代码](https://docs.elara.patract.io/)
 
-官网升级，新增 Westend的支持。
+完成2.0大版本升级，新增多个波卡平行链的支持，包括Westend，statemint等支持。
+完成众多节点的升级，包括Bifrost，Nodlecode，moonbeam，Karura等。
 
 
 **zkMega 零知识支持**  [查看此代码](https://github.com/patractlabs/zkmega)
